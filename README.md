@@ -21,7 +21,7 @@
 
 ---
 
-### :nepal: Hi there :wave: It is Suman Dhakal
+### :nepal: Hi there :wave: This is Suman Dhakal
 I am an aspiring AI engineer who wish to solve real world problems by means of data.
 
 - 🌱 I’m currently learning genetic algorithm, deep learning and data engineering
