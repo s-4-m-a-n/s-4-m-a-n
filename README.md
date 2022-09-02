@@ -39,10 +39,25 @@ I am an aspiring AI engineer who wish to solve real world problems by means of d
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="flask" alt="flask" width="40" height="40"/> &nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" title="pytorch" alt="pytorch" width="40" height="40"/> &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" title="opencv" alt="opencv" width="40" height="40"/> &nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" title="redis" alt="redis" width="40" height="40"/> &nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="postgresql" alt="postgresql" width="40" height="40"/> &nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="bash" alt="bash" width="40" height="40"/> &nbsp;
 </div>
 
 ---
 ## :metal: My Works:
+
+:computer: :eye: computer vision / Image processing
+- [image processing from scratch](https://github.com/s-4-m-a-n/Image-processing-from-scratch) 
+- [autonomous braking system](https://github.com/s-4-m-a-n/autonomous_braking_system)
+
+:brain: deep learning
+- [sketch to photo converter](https://jovian.ai/s-4-m-a-n/pix2pix-sketch-to-photo-2)
+
+🕸️ random
+- [twitter scraper](https://github.com/s-4-m-a-n/realtime_tweet_scraper)
+- [feature engineering](https://jovian.ai/s-4-m-a-n/feature-engineering-part1)
+- [subscene subtitle downloader](https://github.com/s-4-m-a-n/Subtitle-Downloader)
 
 
 --- 
