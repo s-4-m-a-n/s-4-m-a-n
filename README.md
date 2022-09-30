@@ -55,7 +55,7 @@ I am an aspiring AI engineer who wish to solve real world problems by means of d
 - [autonomous braking system](https://github.com/s-4-m-a-n/autonomous_braking_system)
 
 :brain: deep learning
-- [sketch to photo converter](https://jovian.ai/s-4-m-a-n/pix2pix-sketch-to-photo-2)
+- [sketch to photo converter](https://github.com/s-4-m-a-n/sketch-to-photo-converter)
 
 🕸️ random
 - [twitter scraper](https://github.com/s-4-m-a-n/realtime_tweet_scraper)
