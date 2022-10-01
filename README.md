@@ -52,7 +52,7 @@ I am an aspiring AI engineer who wish to solve real world problems by means of d
 
 :computer: :eye: computer vision / Image processing
 - [image processing from scratch](https://github.com/s-4-m-a-n/Image-processing-from-scratch) 
-- [autonomous braking system](https://github.com/s-4-m-a-n/autonomous_braking_system)
+- [autonomous braking](https://github.com/s-4-m-a-n/autonomous_braking)
 
 :brain: deep learning
 - [sketch to photo converter](https://github.com/s-4-m-a-n/sketch-to-photo-converter)
