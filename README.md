@@ -7,9 +7,7 @@
   <a href="https://www.linkedin.com/in/suman-dhakal-2822a1198/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://jovian.ai/s-4-m-a-n">
-    <img src="https://shields.io/badge/jovian-blue?style=for-the-badge&&logoColor=white" alt="Jovian.ai Badge"/>
-  </a>
+  
   <a href="mailto:dhakalsumn739@gmail.com">
     <img src="https://shields.io/badge/gmail-white?style=for-the-badge&&logo=gmail&Color=white" alt="gmail Badge"/>
   </a>
