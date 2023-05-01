@@ -55,12 +55,13 @@ I am an aspiring AI engineer who wish to solve real world problems by means of d
 :brain: deep learning
 - [sketch to photo converter](https://github.com/s-4-m-a-n/sketch-to-photo-converter)
 
-🕸️ random
+⛄: random
 - [twitter scraper](https://github.com/s-4-m-a-n/realtime_tweet_scraper)
 - [feature engineering](https://jovian.ai/s-4-m-a-n/feature-engineering-part1)
 - [subscene subtitle downloader](https://github.com/s-4-m-a-n/Subtitle-Downloader)
 
-
+🕸️: Knowledge graph
+- [daraz-smartphones-knowledge graph](https://github.com/s-4-m-a-n/daraz-np-smartphone-knowledge-graph)
 --- 
 ## :fire: My Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=s-4-m-a-n&theme=horizon&hide_border=true&dates=DDCC25)](https://git.io/streak-stats)
