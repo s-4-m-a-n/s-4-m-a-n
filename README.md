@@ -22,7 +22,7 @@
 ### :nepal: Hi there :wave: This is Suman Dhakal
 I am an aspiring AI engineer who wish to solve real world problems by means of data.
 
-- 🌱 I’m currently learning genetic algorithm, deep learning and data engineering
+- 🌱 I’m currently learning NLP
 - :boy: Pronouns: he
 - ⚡ Fun fact: Mitochondria is the powerhouse of the cell :stuck_out_tongue_winking_eye:
 
@@ -62,6 +62,9 @@ I am an aspiring AI engineer who wish to solve real world problems by means of d
 
 🕸️: Knowledge graph
 - [daraz-smartphones-knowledge graph](https://github.com/s-4-m-a-n/daraz-np-smartphone-knowledge-graph)
+
+🤖: Chatbot
+- [RestaurantChatbot](https://github.com/s-4-m-a-n/RestaurantBot/settings)
 --- 
 ## :fire: My Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=s-4-m-a-n&theme=horizon&hide_border=true&dates=DDCC25)](https://git.io/streak-stats)
