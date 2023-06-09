@@ -66,7 +66,7 @@ I am an aspiring AI engineer who wish to solve real world problems by means of d
 - [daraz-smartphones-knowledge graph](https://github.com/s-4-m-a-n/daraz-np-smartphone-knowledge-graph)
 
 🤖: Chatbot
-- [RestaurantChatbot](https://github.com/s-4-m-a-n/RestaurantBot/settings)
+- [RestaurantChatbot](https://github.com/s-4-m-a-n/RestaurantBot)
 --- 
 ## :fire: My Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=s-4-m-a-n&theme=horizon&hide_border=true&dates=DDCC25)](https://git.io/streak-stats)
