@@ -57,6 +57,9 @@ I am an aspiring AI engineer who wish to solve real world problems by means of d
 - [image processing from scratch](https://github.com/s-4-m-a-n/Image-processing-from-scratch) 
 - [sketch to photo converter](https://github.com/s-4-m-a-n/sketch-to-photo-converter)
 
+NLP
+- [Smart Auto Complete](https://github.com/s-4-m-a-n/smart-auto-complete)
+
 ⛄: random
 - [subscene subtitle downloader](https://github.com/s-4-m-a-n/Subtitle-Downloader)
 - [twitter scraper](https://github.com/s-4-m-a-n/realtime_tweet_scraper)
