@@ -50,6 +50,14 @@ I am an aspiring AI engineer who wish to solve real world problems by means of d
 ---
 ## :metal: My Works:
 
+
+🤖: Chatbot
+- [RestaurantChatbot](https://github.com/s-4-m-a-n/RestaurantBot)
+
+NLP
+- [Smart Auto Complete](https://github.com/s-4-m-a-n/smart-auto-complete)
+  
+
 :computer: :eye: computer vision / Image processing
 - [Pain recognition](https://github.com/s-4-m-a-n/pain-recognition)
 - [autonomous braking (POC)](https://github.com/s-4-m-a-n/autonomous_braking)
@@ -57,8 +65,6 @@ I am an aspiring AI engineer who wish to solve real world problems by means of d
 - [image processing from scratch](https://github.com/s-4-m-a-n/Image-processing-from-scratch) 
 - [sketch to photo converter](https://github.com/s-4-m-a-n/sketch-to-photo-converter)
 
-NLP
-- [Smart Auto Complete](https://github.com/s-4-m-a-n/smart-auto-complete)
 
 ⛄: random
 - [subscene subtitle downloader](https://github.com/s-4-m-a-n/Subtitle-Downloader)
@@ -68,8 +74,6 @@ NLP
 🕸️: Knowledge graph
 - [daraz-smartphones-knowledge graph](https://github.com/s-4-m-a-n/daraz-np-smartphone-knowledge-graph)
 
-🤖: Chatbot
-- [RestaurantChatbot](https://github.com/s-4-m-a-n/RestaurantBot)
 --- 
 ## :fire: My Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=s-4-m-a-n&theme=horizon&hide_border=true&dates=DDCC25)](https://git.io/streak-stats)
