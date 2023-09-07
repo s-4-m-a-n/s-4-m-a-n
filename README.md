@@ -65,6 +65,10 @@ NLP
 - [image processing from scratch](https://github.com/s-4-m-a-n/Image-processing-from-scratch) 
 - [sketch to photo converter](https://github.com/s-4-m-a-n/sketch-to-photo-converter)
 
+📄 [Summary of Research papers](https://github.com/s-4-m-a-n/365-days-of-ML-challange/tree/main/research%20paper%20summary)
+
+🎉 Paper Implementations
+- [simCLR](https://github.com/s-4-m-a-n/365-days-of-ML-challange/tree/main/paper%20implementations/simCLR)
 
 ⛄: random
 - [subscene subtitle downloader](https://github.com/s-4-m-a-n/Subtitle-Downloader)
