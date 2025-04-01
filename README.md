@@ -22,7 +22,7 @@
 ### :nepal: Hi there :wave: This is Suman Dhakal
 I am an aspiring AI engineer who wish to solve real world problems by means of data.
 
-- 🌱 I’m currently learning NLP
+- 🌱 I’m currently learning vision transformer
 - :boy: Pronouns: he
 - ⚡ Fun fact: Mitochondria is the powerhouse of the cell :stuck_out_tongue_winking_eye:
 
