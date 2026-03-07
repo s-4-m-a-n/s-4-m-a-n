@@ -1,86 +1,117 @@
+<div align="center">
 
-<div id="header" align="center" style="width:50%;height:0;padding-bottom:89%;position:relative;">
-  <img src="https://media.giphy.com/media/5fjXHZQ7CaKj0Pgbvv/giphy.gif" width="20%" height="auto"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=140&section=header&text=Suman%20Dhakal&fontColor=ffffff&fontSize=52&fontAlignY=65&desc=AI%20Engineer%20%7C%20Nepal%20%F0%9F%87%B3%F0%9F%87%B5&descAlignY=85&descSize=16&animation=fadeIn" width="100%"/>
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suman-dhakal-2822a1198/)
+[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=flat-square&logo=gmail&logoColor=white)](mailto:dhakalsumn739@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=s-4-m-a-n&color=302b63&style=flat-square&label=Profile+Views)](https://github.com/s-4-m-a-n)
+
 </div>
 
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/suman-dhakal-2822a1198/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  
-  <a href="mailto:dhakalsumn739@gmail.com">
-    <img src="https://shields.io/badge/gmail-white?style=for-the-badge&&logo=gmail&Color=white" alt="gmail Badge"/>
-  </a>
-</div>
+---
+
+## About
+
+Aspiring AI engineer focused on solving real-world problems through data. Currently deepening expertise in **vision transformers** and exploring the intersection of perception, intelligence, and immersive environments — from **reinforcement learning** agents that learn by doing, to **extended reality (XR)** systems that bridge the physical and digital worlds.
+
+```python
+suman = {
+    "pronouns"  : "he/him",
+    "location"  : "Nepal 🇳🇵",
+    "focus"     : ["Computer Vision", "NLP", "Deep Learning", "RL", "XR"],
+    "learning"  : "Vision Transformers",
+    "fun_fact"  : "Mitochondria is the powerhouse of the cell 🔋"
+}
+```
+
+---
+
+## Tech Stack
 
 <div align="center">
- <img src="https://komarev.com/ghpvc/?username=s-4-m-a-n&color=green&style=flat-square" />
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+
 </div>
 
 ---
 
-### :nepal: Hi there :wave: This is Suman Dhakal
-I am an aspiring AI engineer who wish to solve real world problems by means of data.
+## Selected Projects
 
-- 🌱 I’m currently learning vision transformer
-- :boy: Pronouns: he
-- ⚡ Fun fact: Mitochondria is the powerhouse of the cell :stuck_out_tongue_winking_eye:
+### 🧠 Computer Vision & Image Processing
 
----
+<div align="center">
 
-### :hammer_and_wrench: Languages and Tools :
+[![Pain Recognition](https://github-readme-stats.vercel.app/api/pin/?username=s-4-m-a-n&repo=pain-recognition&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/s-4-m-a-n/pain-recognition)
+[![Autonomous Braking](https://github-readme-stats.vercel.app/api/pin/?username=s-4-m-a-n&repo=autonomous_braking&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/s-4-m-a-n/autonomous_braking)
+[![Bubble Sheet Evaluator](https://github-readme-stats.vercel.app/api/pin/?username=s-4-m-a-n&repo=bubble-sheet-evaluator&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/s-4-m-a-n/bubble-sheet-evaluator)
+[![Sketch to Photo](https://github-readme-stats.vercel.app/api/pin/?username=s-4-m-a-n&repo=sketch-to-photo-converter&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/s-4-m-a-n/sketch-to-photo-converter)
+[![Image Processing from Scratch](https://github-readme-stats.vercel.app/api/pin/?username=s-4-m-a-n&repo=Image-processing-from-scratch&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/s-4-m-a-n/Image-processing-from-scratch)
 
-<div>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="40" height="40"/> &nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/> &nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="docker" alt="docker" width="40" height="40"/> &nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="flask" alt="flask" width="40" height="40"/> &nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" title="pytorch" alt="pytorch" width="40" height="40"/> &nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" title="opencv" alt="opencv" width="40" height="40"/> &nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" title="redis" alt="redis" width="40" height="40"/> &nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="postgresql" alt="postgresql" width="40" height="40"/> &nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="bash" alt="bash" width="40" height="40"/> &nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="pandas" alt="pandas" width="40" height="40"/> &nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="numpy" alt="numpy" width="40" height="40"/> &nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="java" alt="java" width="40" height="40"/> &nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" title="tensorflow" alt="tensorflow" width="40" height="40"/> &nbsp;
-  
+</div>
+
+### 💬 NLP & Conversational AI
+
+<div align="center">
+
+[![RestaurantBot](https://github-readme-stats.vercel.app/api/pin/?username=s-4-m-a-n&repo=RestaurantBot&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/s-4-m-a-n/RestaurantBot)
+[![Smart Auto Complete](https://github-readme-stats.vercel.app/api/pin/?username=s-4-m-a-n&repo=smart-auto-complete&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/s-4-m-a-n/smart-auto-complete)
+
+</div>
+
+### 🕸️ Knowledge Graphs & Data
+
+<div align="center">
+
+[![Daraz Knowledge Graph](https://github-readme-stats.vercel.app/api/pin/?username=s-4-m-a-n&repo=daraz-np-smartphone-knowledge-graph&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/s-4-m-a-n/daraz-np-smartphone-knowledge-graph)
+
+</div>
+
+### 🔬 Research & Paper Implementations
+
+<div align="center">
+
+[![365 Days of ML](https://github-readme-stats.vercel.app/api/pin/?username=s-4-m-a-n&repo=365-days-of-ML-challange&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/s-4-m-a-n/365-days-of-ML-challange)
+
+</div>
+
+### 🛠️ Utilities & Tools
+
+<div align="center">
+
+[![Subtitle Downloader](https://github-readme-stats.vercel.app/api/pin/?username=s-4-m-a-n&repo=Subtitle-Downloader&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/s-4-m-a-n/Subtitle-Downloader)
+[![Twitter Scraper](https://github-readme-stats.vercel.app/api/pin/?username=s-4-m-a-n&repo=realtime_tweet_scraper&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/s-4-m-a-n/realtime_tweet_scraper)
+
 </div>
 
 ---
-## :metal: My Works:
 
+## GitHub Stats
 
-🤖: Chatbot
-- [RestaurantChatbot](https://github.com/s-4-m-a-n/RestaurantBot)
+<div align="center">
 
-NLP
-- [Smart Auto Complete](https://github.com/s-4-m-a-n/smart-auto-complete)
-  
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=s-4-m-a-n&theme=tokyonight&hide_border=true&background=0D1117&ring=302b63&fire=FF6B6B&currStreakLabel=ffffff" />
+&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-4-m-a-n&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 
-:computer: :eye: computer vision / Image processing
-- [Pain recognition](https://github.com/s-4-m-a-n/pain-recognition)
-- [autonomous braking (POC)](https://github.com/s-4-m-a-n/autonomous_braking)
-- [Bubble sheet evaluator](https://github.com/s-4-m-a-n/bubble-sheet-evaluator)
-- [image processing from scratch](https://github.com/s-4-m-a-n/Image-processing-from-scratch) 
-- [sketch to photo converter](https://github.com/s-4-m-a-n/sketch-to-photo-converter)
+</div>
 
-📄 [Summary of Research papers](https://github.com/s-4-m-a-n/365-days-of-ML-challange/tree/main/research%20paper%20summary)
+---
 
-🎉 Paper Implementations
-- [simCLR](https://github.com/s-4-m-a-n/365-days-of-ML-challange/tree/main/paper%20implementations/simCLR)
-
-⛄: random
-- [subscene subtitle downloader](https://github.com/s-4-m-a-n/Subtitle-Downloader)
-- [twitter scraper](https://github.com/s-4-m-a-n/realtime_tweet_scraper)
-- [feature engineering](https://jovian.ai/s-4-m-a-n/feature-engineering-part1)
-
-🕸️: Knowledge graph
-- [daraz-smartphones-knowledge graph](https://github.com/s-4-m-a-n/daraz-np-smartphone-knowledge-graph)
-
---- 
-## :fire: My Stats:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=s-4-m-a-n&theme=horizon&hide_border=true&dates=DDCC25)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s-4-m-a-n&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=80&section=footer" width="100%"/>
+</div>
