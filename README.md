@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=140&section=header&text=Suman%20Dhakal&fontColor=ffffff&fontSize=52&fontAlignY=65&desc=AI%20Engineer%20%7C%20Nepal%20%F0%9F%87%B3%F0%9F%87%B5&descAlignY=85&descSize=16&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=140&section=header&text=Suman%20Dhakal&fontColor=ffffff&fontSize=50&fontAlignY=65&desc=AI/ML%20Engineer%20&descAlignY=90&descSize=14&animation=fadeIn" width="100%"/>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suman-dhakal-2822a1198/)
-[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=flat-square&logo=gmail&logoColor=white)](mailto:dhakalsumn739@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=s-4-m-a-n&color=302b63&style=flat-square&label=Profile+Views)](https://github.com/s-4-m-a-n)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suman-dhakal-2822a1198/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dhakalsumn739@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=s-4-m-a-n&color=0A66C2&style=flat-square&label=Profile+Views)](https://github.com/s-4-m-a-n)
 
 </div>
 
@@ -14,39 +14,53 @@
 
 ## About
 
-Aspiring AI engineer focused on solving real-world problems through data. Currently deepening expertise in **vision transformers** and exploring the intersection of perception, intelligence, and immersive environments — from **reinforcement learning** agents that learn by doing, to **extended reality (XR)** systems that bridge the physical and digital worlds.
+Hey! I'm Suman — an AI/ML engineer from Nepal who loves building things that actually work in the real world. I spend most of my time working on computer vision and NLP problems, and lately I've been going deep into reinforcement learning and XR. I like research, but I also like shipping things.
 
-```python
-suman = {
-    "pronouns"  : "he/him",
-    "location"  : "Nepal 🇳🇵",
-    "focus"     : ["Computer Vision", "NLP", "Deep Learning", "RL", "XR"],
-    "learning"  : "Vision Transformers",
-    "fun_fact"  : "Mitochondria is the powerhouse of the cell 🔋"
-}
-```
+*When I'm not at my keyboard, I'm probably watching movies, playing guitar, swimming, or sending memes.*
+
+- 📍 | Biratnagar, Nepal 🇳🇵
+- 🎯 | CV · NLP · Deep Learning · RL · XR 
+- 📖 | Currently learning: Reinforcement Learning + XR 
+- 🎸 | Guitar · 🏊 Swimming · 🎬 Movies · 💪 Gym · 😂 Memes · 💭 philosophy 
+- 📝 | *Solve problems not because they’re easy, but because each challenge teaches a new way to think* 
 
 ---
 
 ## Tech Stack
 
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+**`AI / ML`**&nbsp;
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+
+**`Data & Visualization`**&nbsp;
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![CVAT](https://img.shields.io/badge/CVAT-1a8cff?style=flat-square&logoColor=white)
 
-</div>
+**`Programming`**&nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**`Infra & Backend`**&nbsp;
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Triton](https://img.shields.io/badge/Triton_Inference_Server-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ---
 
@@ -111,6 +125,20 @@ suman = {
 </tr>
 </table>
 
+## Engineering Interests
+
+<div align="center">
+
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-00d4ff?style=flat-square&logoColor=00d4ff&labelColor=0d1117&color=0d1117)
+![Reinforcement Learning](https://img.shields.io/badge/Reinforcement_Learning-00d4ff?style=flat-square&logoColor=00d4ff&labelColor=0d1117&color=0d1117)
+![eXtended Reality](https://img.shields.io/badge/Reinforcement_Learning-00d4ff?style=flat-square&logoColor=00d4ff&labelColor=0d1117&color=0d1117)
+![ML Algorithms](https://img.shields.io/badge/ML_Algorithms-bf5af2?style=flat-square&logoColor=bf5af2&labelColor=0d1117&color=0d1117)
+![Research--driven AI](https://img.shields.io/badge/Research--driven_AI-bf5af2?style=flat-square&logoColor=bf5af2&labelColor=0d1117&color=0d1117)
+![ML Infrastructure](https://img.shields.io/badge/ML_Infrastructure-ff9f0a?style=flat-square&logoColor=ff9f0a&labelColor=0d1117&color=0d1117)
+![Intelligent Systems](https://img.shields.io/badge/Intelligent_Systems-ff9f0a?style=flat-square&logoColor=ff9f0a&labelColor=0d1117&color=0d1117)
+
+</div>
+
 ---
 
 ## GitHub Stats
@@ -119,7 +147,6 @@ suman = {
 
 <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=s-4-m-a-n&theme=tokyonight&hide_border=true&background=0D1117&ring=302b63&fire=FF6B6B&currStreakLabel=ffffff" />
 &nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-4-m-a-n&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 
 </div>
 
