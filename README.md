@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D97729,50:F29C4B,100:C36F1D&height=150&section=header&text=Suman%20Dhakal&fontColor=ffffff&fontSize=52&fontAlignY=65&desc=AI/ML%20Engineer%20%7C%20Nepal%20%F0%9F%87%B3%F0%9F%87%B5&descAlignY=85&descSize=16&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:BD00FF,50:7000FF,100:00E0FF&height=150&section=header&text=Suman%20Dhakal&fontColor=ffffff&fontSize=52&fontAlignY=65&desc=AI/ML%20Engineer%20%7C%20Nepal%20%F0%9F%87%B3%F0%9F%87%B5&descAlignY=85&descSize=16&animation=fadeIn" width="100%"/>
 
 <br/>
 
@@ -175,5 +175,5 @@ Hey! I'm **Suman** — an AI/ML engineer from Nepal who loves building things th
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D97729,50:F29C4B,100:C36F1D&height=80&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:BD00FF,50:7000FF,100:00E0FF&height=80&section=footer" width="100%"/>
 </div>
