@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:BD00FF,50:7000FF,100:00E0FF&height=150&section=header&text=Suman%20Dhakal&fontColor=ffffff&fontSize=52&fontAlignY=65&desc=AI/ML%20Engineer%20%7C%20Nepal%20%F0%9F%87%B3%F0%9F%87%B5&descAlignY=85&descSize=16&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:BD00FF,50:7000FF,100:00E0FF&height=150&section=header&text=Suman%20Dhakal&fontColor=ffffff&fontSize=52&fontAlignY=65&desc=AI/ML%20Engineer%20%7C%20Nepal%20%F0%9F%87%B3%F0%9F%87%B5&descAlignY=85&descSize=16&animation=fadeIn" width="100%"/>
 
 <br/>
 
@@ -89,13 +89,10 @@ Hey! I'm **Suman** — an AI/ML engineer from Nepal who loves building things th
 <tr>
 <td valign="top" width="50%">
 
-![CV](https://img.shields.io/badge/🧠_Computer_Vision_%26_Image_Processing-3b6fd4?style=for-the-badge&labelColor=0d1117&color=3b6fd4)
+![CV](https://img.shields.io/badge/🤖_RL_%26_XR-3b6fd4?style=for-the-badge&labelColor=0d1117&color=3b6fd4)
 
-<sub>• [**Pain Recognition**](https://github.com/s-4-m-a-n/pain-recognition) — facial expression pain detection </sub><br/>
-<sub>• [**Autonomous Braking**](https://github.com/s-4-m-a-n/autonomous_braking) — vision-based POC for vehicles</sub><br/>
-<sub>• [**Bubble Sheet Evaluator**](https://github.com/s-4-m-a-n/bubble-sheet-evaluator) — automated OMR grading</sub><br/>
-<sub>• [**Sketch → Photo Converter**](https://github.com/s-4-m-a-n/sketch-to-photo-converter) — GAN image translation</sub><br/>
-<sub>• [**Image Processing from Scratch**](https://github.com/s-4-m-a-n/Image-processing-from-scratch) — CV algorithms, no libs</sub>
+<sub>• [**Hands-on-Reinforcement-Learning**](https://github.com/s-4-m-a-n/hands-on-reinforcement-learning) — reinforcement learning from scratch </sub><br/>
+<sub>• [**Aframe-tic-tac-toe**](https://github.com/s-4-m-a-n/aframe-tic-tac-toe) — vr + RL based tic tac toe </sub><br/>
 
 </td>
 <td valign="top" width="50%">
@@ -107,7 +104,19 @@ Hey! I'm **Suman** — an AI/ML engineer from Nepal who loves building things th
 
 </td>
 </tr>
+
 <tr>
+<td valign="top" width="50%">
+
+![CV](https://img.shields.io/badge/🧠_Computer_Vision_%26_Image_Processing-3b6fd4?style=for-the-badge&labelColor=0d1117&color=3b6fd4)
+
+<sub>• [**Pain Recognition**](https://github.com/s-4-m-a-n/pain-recognition) — facial expression pain detection </sub><br/>
+<sub>• [**Autonomous Braking**](https://github.com/s-4-m-a-n/autonomous_braking) — vision-based POC for vehicles</sub><br/>
+<sub>• [**Bubble Sheet Evaluator**](https://github.com/s-4-m-a-n/bubble-sheet-evaluator) — automated OMR grading</sub><br/>
+<sub>• [**Sketch → Photo Converter**](https://github.com/s-4-m-a-n/sketch-to-photo-converter) — GAN image translation</sub><br/>
+<sub>• [**Image Processing from Scratch**](https://github.com/s-4-m-a-n/Image-processing-from-scratch) — CV algorithms, no libs</sub>
+
+</td>
 <td valign="top" width="50%">
 
 ![KG](https://img.shields.io/badge/🕸️_Knowledge_Graphs_%26_Data-a371f7?style=for-the-badge&labelColor=0d1117&color=a371f7)
@@ -116,16 +125,17 @@ Hey! I'm **Suman** — an AI/ML engineer from Nepal who loves building things th
 <sub>• [**Feature Engineering**](https://jovian.ai/s-4-m-a-n/feature-engineering-part1) — transformation & selection</sub>
 
 </td>
+</tr>
+
+<tr>
 <td valign="top" width="50%">
 
-![Research](https://img.shields.io/badge/🔬_Research_%26_Paper_Implementations-e3b341?style=for-the-badge&labelColor=0d1117&color=e3b341)
+![Research](https://img.shields.io/badge/🔬_Research_%26_Research_%26_Paper_Implementations-e3b341?style=for-the-badge&labelColor=0d1117&color=e3b341)
 
 <sub>• [**SimCLR**](https://github.com/s-4-m-a-n/365-days-of-ML-challange/tree/main/paper%20implementations/simCLR) — self-supervised contrastive learning</sub><br/>
 <sub>• [**Research Paper Summaries**](https://github.com/s-4-m-a-n/365-days-of-ML-challange/tree/main/research%20paper%20summary) — 365 days of ML notes</sub>
 
 </td>
-</tr>
-<tr>
 <td valign="top" width="50%">
 
 ![Tools](https://img.shields.io/badge/🛠️_Utilities_%26_Tools-39c5cf?style=for-the-badge&labelColor=0d1117&color=39c5cf)
@@ -134,14 +144,8 @@ Hey! I'm **Suman** — an AI/ML engineer from Nepal who loves building things th
 <sub>• [**Realtime Twitter Scraper**](https://github.com/s-4-m-a-n/realtime_tweet_scraper) — stream-based tweet pipeline</sub>
 
 </td>
-<td valign="top" width="50%" align="center">
-
-<br/><br/>
-
-![total](https://img.shields.io/badge/13_Projects-across_5_domains-302b63?style=for-the-badge&labelColor=0d1117)
-
-</td>
 </tr>
+
 </table>
 
 <br/>
