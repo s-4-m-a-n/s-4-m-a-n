@@ -114,7 +114,6 @@ Hey! I'm **Suman** — an AI/ML engineer from Nepal who loves building things th
 <sub>• [**Autonomous Braking**](https://github.com/s-4-m-a-n/autonomous_braking) — vision-based POC for vehicles</sub><br/>
 <sub>• [**Bubble Sheet Evaluator**](https://github.com/s-4-m-a-n/bubble-sheet-evaluator) — automated OMR grading</sub><br/>
 <sub>• [**Sketch → Photo Converter**](https://github.com/s-4-m-a-n/sketch-to-photo-converter) — GAN image translation</sub><br/>
-<sub>• [**Image Processing from Scratch**](https://github.com/s-4-m-a-n/Image-processing-from-scratch) — CV algorithms, no libs</sub>
 
 </td>
 <td valign="top" width="50%">
@@ -122,7 +121,6 @@ Hey! I'm **Suman** — an AI/ML engineer from Nepal who loves building things th
 ![KG](https://img.shields.io/badge/🕸️_Knowledge_Graphs_%26_Data-a371f7?style=for-the-badge&labelColor=0d1117&color=a371f7)
 
 <sub>• [**Daraz Smartphone KG**](https://github.com/s-4-m-a-n/daraz-np-smartphone-knowledge-graph) — product data as RDF graph</sub><br/>
-<sub>• [**Feature Engineering**](https://jovian.ai/s-4-m-a-n/feature-engineering-part1) — transformation & selection</sub>
 
 </td>
 </tr>
