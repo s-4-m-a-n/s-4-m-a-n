@@ -170,7 +170,7 @@ Hey! I'm **Suman** — an AI/ML engineer from Nepal who loves building things th
 
 <div align="center">
 
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=s-4-m-a-n&theme=tokyonight&hide_border=true&background=0D1117&ring=302b63&fire=FF6B6B&currStreakLabel=ffffff" />
+<img height="140" src="https://github-readme-streak-stats.herokuapp.com?user=s-4-m-a-n&theme=tokyonight&hide_border=true&background=0F1117&ring=302b63&fire=FF6B6B&currStreakLabel=ffffff" />
 &nbsp;
 </div>
 
